@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10vh;
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg");
+ 
+}
+.box{
+    width: 400px;
+    height: 620px;
+    
+}
+.inputbox{
+    padding: 10px 10px;
+    font-size: large;
+
+
+}
+input{
+    width: 100%;
+}
+.s1{
+    font-size: large;
+    color: white;
+    font-weight: 500;
+}
+.h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+}
